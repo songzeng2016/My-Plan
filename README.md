@@ -2,7 +2,7 @@
 Record plans and life
 
 ## Node 1      
-(2017.07.17 - 2017.08.17)
+> (2017.07.17 - 2017.08.17)
 
 > - [ ] vue 项目学习
 > - [ ] 小程序项目 (node.js + express + mongodb + 小程序)
