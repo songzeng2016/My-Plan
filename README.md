@@ -1,5 +1,9 @@
 # My-Plan
 Record plans and life
 
-[x] vue 学习项目
-[x] 小程序项目 (node.js + express + mongodb + 小程序)
+## Node 1      
+(2017.07.17 - 2017.08.17)
+
+> - [ ] vue 项目学习
+> - [ ] 小程序项目 (node.js + express + mongodb + 小程序)
+> - [ ] 搭建个人博客（每周坚持写篇文章）
