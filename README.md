@@ -10,5 +10,5 @@ Record plans and life
 
 ## Node 2
 
-> - [ ] 学习爬取网页数据(Python)
+> - [ ] 学习爬取网页数据(Python, node)
 > - [ ] 学习正则
