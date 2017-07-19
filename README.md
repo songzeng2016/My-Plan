@@ -7,3 +7,8 @@ Record plans and life
 > - [ ] vue 项目学习
 > - [ ] 小程序项目 (node.js + express + mongodb + 小程序)
 > - [ ] 搭建个人博客（每周坚持写篇文章）
+
+## Node 2
+
+> - [ ] 学习爬取网页数据(Python)
+> - [ ] 学习正则
