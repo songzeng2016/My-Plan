@@ -13,3 +13,5 @@ Record plans and life
 
 > - [ ] 学习爬取网页数据(Python, node)
 > - [ ] 学习正则
+
+> - [ ] 原生js、使用jQuery及编写jQuery扩展、前端模板、前端mvc（backbone）、模块化开发（amd/cmd）、mvvm开发模式、react为代表的redux模式。
