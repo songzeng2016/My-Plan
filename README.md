@@ -15,3 +15,13 @@ Record plans and life
 > - [ ] 学习正则
 
 > - [ ] 原生js、使用jQuery及编写jQuery扩展、前端模板、前端mvc（backbone）、模块化开发（amd/cmd）、mvvm开发模式、react为代表的redux模式。
+
+## 2018
+
+> - [ ] 微信小游戏（FlappyBird）
+> - [ ] js 基础巩固（写篇文章）
+> - [ ] 整理前端编码规范（写篇文章）
+> - [ ] es6 学习
+> - [ ] vue 学习（配合 es6 做个小项目）
+> - [ ] 正则 node webpack 学习
+> - [ ] 各个前端开发工具熟练使用（git markdown webstorm iterm2 homebrower oh-my-zsh）
