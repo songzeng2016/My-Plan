@@ -25,3 +25,4 @@ Record plans and life
 > - [ ] vue 学习（配合 es6 做个小项目）
 > - [ ] 正则 node webpack 学习
 > - [ ] 各个前端开发工具熟练使用（git markdown webstorm iterm2 homebrower oh-my-zsh）
+> - [ ] 开发一款产品（天气预报小程序入手）
