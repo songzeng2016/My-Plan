@@ -18,7 +18,8 @@ Record plans and life
 
 ## 2018
 
-> - [ ] 微信小游戏（FlappyBird）
+> - [x] 微信小游戏（FlappyBird）
+
 > - [ ] js 基础巩固（写篇文章）
 > - [ ] 整理前端编码规范（写篇文章）
 > - [ ] es6 学习
